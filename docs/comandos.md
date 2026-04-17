@@ -4,10 +4,11 @@
 
 - `git clone <url-o-ruta>`: copia el repositorio.
 - `git status`: muestra estado de archivos y rama.
+- modicando seccion A
 
 ## Sección B - Guardar cambios
 
-- `git add <archivo>`: prepara archivo para commit, tambien funciona usar el . para el archivo en el equ estas parado..
+- `git add <archivo>`: prepara archivo para commit.
 - `git commit -m "mensaje"`: guarda un punto de avance.
 
 ## Sección C - Revisar historial y diferencias
