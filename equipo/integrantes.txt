@@ -2,11 +2,11 @@
 # Completar una línea por integrante.
 # Formato: Nombre completo | Rol | Interés en la materia
 
-1. Mateo |Desarrollador | Aprender conceptos de la terminal 
+1. Mateo Felitti | Desarrollador | Aprender conceptos de la terminal 
 2. Valentina Pérez | Integradora | Aprender varios conceptos basicos de computación
 3. Maximo Piccirillo | Desarrollador | GitHub
 4. Matías Garrido | Auditor | Que lo aprendido pueda aplicarlo en mis estudios
-5. ____________________ | ____________________ | ____________________
+5. Luis Pascuali | Coordinador | Aprender git
 
 # Roles sugeridos:
 # - Integrador/a
