@@ -18,3 +18,5 @@ Organizar una base documental inicial para un sistema académico sencillo que pe
 ## Observaciones del equipo
 
 Espacio para que el equipo agregue una nota breve sobre acuerdos de trabajo.
+
+Modificación reto 2.
