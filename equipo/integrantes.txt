@@ -4,8 +4,13 @@
 
 1. Mateo |Desarrollador | Aprender conceptos de la terminal 
 2. ____________________ | ____________________ | ____________________
+<<<<<<< HEAD
 3. ____________________ | ____________________ | ____________________
+4. Matías Garrido | Auditor | Que lo aprendido pueda aplicarlo en mis estudios
+=======
+3. Maximo Piccirillo | Desarrollador | GitHub
 4. ____________________ | ____________________ | ____________________
+>>>>>>> 57361650d59dba9bff20accb7ee27fd54321fa9d
 5. ____________________ | ____________________ | ____________________
 
 # Roles sugeridos:
